@@ -16,9 +16,11 @@ https://dogbolt.org
 
 This is a list of char used in the flag that we need to unscramble 
 I noticed that the tablet’s variables are listed in order. So I deleted all the program related language from it leaving each number assignment to the characters.
+
 **![](https://lh3.googleusercontent.com/YnEZco6k1WKd6b-WnJYjJamtA8f6rG3RauIohuSYZem2pdyhUVE4o6Ta5EDyaSb0WT6Z0f5LZyWkEK1i1Nls7E-rQ-hN4-GSht9sf9v6J2oVk7MT9soJ158qJDciRrKLuegEg2T-Y0kKio-YVNjpiUo)**
 
 Next I replaced the numbers in order to make it sort in the correct blocks.
+
 **![](https://lh3.googleusercontent.com/bDnq39FWqVlIkXY6YqlOT0fj5yUYekIfjWMdXz33auS2YOMXNG1OifE0DvXqgkSZiCFcyrVUSSFumN4wF6CQSNE5HZHJLbYb0VODZijiEDExkkcEVRdITfYQ1s8diPAtXIKKV-btqePxqI23NcFaBeg)**
 
 ```bash
